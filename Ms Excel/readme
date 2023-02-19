@@ -1,1 +1,5 @@
-
+Here, I have used a dataset which had more than 1000 rows and 14 columns regarding bike sales.
+At first I have cleaned all the data for removing duplicate, empty rows,spell checking and some other 
+tasks.THen I add one more column for age group to understand and make better graph. I have created 
+pivot tables and at last I have created dashboard. For that I have used some correlation. And build
+my excel dashboad for bike sales.
